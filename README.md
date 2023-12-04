@@ -1,2 +1,2 @@
 # Rendimiento-de-Hardware MULTIPC
-#Jessiel Chasifuano
+#Jessiel Chasiguano 
